@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-[![seunghyeon-L's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunghyeon-L)](https://github.com/seunghyeon-L/github-readme-stats)
+[![seunghyeon-L's GitHub stats](https://github-readme-stats-beta-sage.vercel.app/api?username=seunghyeon-L&show_icons=true&theme=transparent&hide_border=true)](https://github.com/seunghyeon-L)
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=sol4071)](https://solved.ac/sol4071/)
 
 ### 🛠 Tech Stack
