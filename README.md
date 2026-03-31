@@ -1,4 +1,5 @@
 ## 👋 Hi there!
+[![GitAnimals](https://render.gitanimals.org/farms/seunghyeon-L)](https://gitanimals.org/)
 [![seunghyeon-L's GitHub stats](https://github-readme-stats-beta-sage.vercel.app/api?username=seunghyeon-L&show_icons=true&theme=transparent&hide_border=true)](https://github.com/seunghyeon-L)
 [![Top Langs](https://github-readme-stats-beta-sage.vercel.app/api/top-langs/?username=seunghyeon-L&layout=compact&theme=transparent&hide_border=true)](https://github.com/seunghyeon-L)
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=sol4071)](https://solved.ac/sol4071/)
